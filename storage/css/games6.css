@@ -72,7 +72,7 @@
 }
 
 :root.theme-cosmic {
-    --background-image: url('../../images/backgrounds/cosmic/gamesbg.png');
+    --background-image: url('../../images/backgrounds/chudjack/gamesbg.png');
     --font-family: 'Inconsolata', 'Ubuntu', sans-serif;
     --text-color: #ffffff; 
     --border-color1: #d9d9d9;

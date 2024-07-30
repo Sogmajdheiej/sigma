@@ -39,7 +39,7 @@
 }
 
 :root {
-    --background-image: url('../../images/backgrounds/seraph/homebg.png');
+    --background-image: url('../../images/backgrounds/topfrag/homebg.png');
     --font-family: 'Ubuntu', sans-serif;
     --text-color: #fff;
     --background-color: black;
@@ -72,7 +72,7 @@
 }
 
 :root.theme-cosmic {
-    --background-image: url('../../images/backgrounds/cosmic/homebg.png');
+    --background-image: url('../../images/backgrounds/chudjack/homebg.png');
     --font-family: 'Inconsolata', 'Ubuntu', sans-serif;
     --text-color: #ffffff; 
     --border-color1: #1e1d1f;
