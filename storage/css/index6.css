@@ -49,8 +49,8 @@
     --text-glow: #000000
 }
 
-:root.theme-azurite {
-    --background-image: url('../../images/backgrounds/azure/homebg.png');
+:root.theme-diddy {
+    --background-image: url('../../images/backgrounds/diddy/homebg.png');
     --font-family: 'Ubuntu', sans-serif;
     --text-color: #c8d9e9; 
     --border-color1: #2d6cc4;
@@ -94,15 +94,15 @@
     --text-glow: #dc1010;
 }
 
-:root.theme-amethyst {
-    --background-image: url('../../images/backgrounds/amethyst/homebg.png');
+:root.theme-sigma {
+    --background-image: url('../../images/backgrounds/sigma/homebg.png');
     --font-family: 'Raleway', sans-serif;
-    --text-color: #c284f5; 
-    --border-color1: #6c0ee7;
-    --border-color2: #4c1587;
-    --background-color: #502589;
-    --hover-color: #5f24ae;
-    --text-glow: #662589;
+    --text-color: #ff0000; 
+    --border-color1: #ff0000;
+    --border-color2: #ff0000;
+    --background-color: #ff0000;
+    --hover-color: #ff0000;
+    --text-glow: #ff0000;
 }
 
 :root.theme-ethereal {
