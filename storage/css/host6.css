@@ -71,7 +71,7 @@
     --text-glow: #4ed089;
 }
 
-:root.theme-cosmic {
+:root.theme-chudjack {
     --background-image: url('../../images/backgrounds/chudjack/hostbg.png');
     --font-family: 'Inconsolata', 'Ubuntu', sans-serif;
     --text-color: #ffffff; 

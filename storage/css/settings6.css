@@ -60,7 +60,7 @@
     --text-glow: #4e5bd0;
 }
 
-:root.theme-retro {
+:root.theme-chudjack {
     --background-image: url('../../images/backgrounds/retro/settingsbg.png');
     --font-family: 'PixelifySans', 'Ubuntu', sans-serif;
     --text-color: #ffffff; 
